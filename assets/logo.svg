@@ -1,0 +1,10 @@
+<svg width="420" height="110" viewBox="0 0 420 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="110" rx="16" fill="#0A1F44"/>
+  <g transform="translate(18,18)">
+    <rect x="0" y="0" width="74" height="74" rx="14" fill="#102A58"/>
+    <path d="M15 55L31 39L43 47L59 25" stroke="#C8A34D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="59" cy="25" r="4" fill="#C8A34D"/>
+  </g>
+  <text x="106" y="47" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Growth Bridge bd</text>
+  <text x="106" y="75" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500" fill="#E9D7A2">Smart • Trusted • Growth-Focused</text>
+</svg>
